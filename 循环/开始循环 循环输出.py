@@ -6,5 +6,3 @@ while i < number_of_apologies:
     print('老婆我错了')
     i += 1
 
-
-# 定义两个变量，i，result
