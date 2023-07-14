@@ -26,3 +26,9 @@ print(f'我的名字是{name},我今年{age}岁了')
 
 # 尝试使用print结束符，并且尝试使用.format来进行格式化输出
 print('我的名字是{},我的年龄是{}' .format(name, age), end='')
+
+# 编写正确的语句输出mlkj i
+str = 'abcdefghi jklmnop'
+# str[开始位置下标:结束位置下标:步长]
+print(str[-4:-10:-1])
+name = '人生苦短 我用python'
